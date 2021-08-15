@@ -14,4 +14,4 @@ The observation space consists of 33 variables corresponding to position, rotati
 The official instructions for installing the unity environment and dependencies can be found [here](https://github.com/udacity/deep-reinforcement-learning/tree/master/p2_continuous-control).
 
 # Instructions
-Run the jupyter notebook file `Continuous_Control_DDPG_v2.ipynb` in the repository for training the agent and see the result.
+Run the jupyter notebook file `Continuous_Control_DDPG_v5.ipynb` in the repository for training the agent and see the result.
